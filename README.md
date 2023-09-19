@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrPierroman
-- 👀 I’m interested in learning new technologies like html, css and javascript. 
-- 🌱 I’m currently learning javascript
+- 👋 Hi, I’m @MrPierroman from France 🟦⬜🟥
+- 👀 I’m interested in learning new technologies like html, css and javascript and all the dev world 🖥️ 
+- 🌱 I’m currently learning javascript and creating my firsts projects. 
 - 💞️ I’m looking to collaborate on new projects for getting new abilities. 
 - 📫 How to reach me : pguillard95@gmail.com
 
