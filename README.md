@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MrPierroman from France 🟦⬜🟥
+- 👋 Hi, I’m @GuillardPierre from France 🟦⬜🟥
 - 👀 I’m interested in learning new technologies like html, css and javascript and all the dev world 🖥️ 
-- 🌱 I’m currently learning javascript and creating my firsts projects. 
-- 💞️ I’m looking to collaborate on new projects for getting new abilities. 
+- 🌱 I’m currently learning to be a developper web at the O'clock school ! 
+- 👨‍💻 I’m looking to collaborate on new projects for getting new abilities.
 - 📫 How to reach me : pguillard95@gmail.com
 
 <!---
